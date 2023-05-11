@@ -10,7 +10,7 @@ export class SalesByMonthComponent {
 chart = new Chart({
   chart: {
     type: "line",
-    height: ""
+    height: "325"
   },
   title: {
     text: 'Month wise sales'
